@@ -1,10 +1,16 @@
 
 # Tic Tac Toe
-Live At: https://google.com
+Live At: https://chandankrr.github.io/tic-tac-toe/
 
-A brief description of what this project does and who it's for
+A game in which two players alternately place crosses and zeros in compartments of a figure made by two vertical lines crossing two horizontal lines, trying to achieve a row of three crosses or three zeros before their opponent.
 
 
+## Features
+
+- User friendly & Simple UI
+- Annimations, when user wins the match
+- Track history / user turn
+- Responsive design
 
 
 ## Tech Stack
